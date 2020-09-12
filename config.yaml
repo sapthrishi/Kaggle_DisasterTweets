@@ -1,0 +1,8 @@
+
+# for use only by the bot server
+chatbot_port:     4000
+word_vector_file: "D:/Work/PythonPj/Jupyter/Word2Vec/GoogleNews-vectors-negative300.bin"
+questionBankFile: "D:/Work/PythonPj/Jupyter/Word2Vec/QnBank.xlsx"
+
+# for use only by the bot client 
+chatbot_url:      "http://localhost:4000/ask"
